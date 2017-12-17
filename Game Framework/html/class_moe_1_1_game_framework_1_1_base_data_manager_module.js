@@ -1,0 +1,25 @@
+var class_moe_1_1_game_framework_1_1_base_data_manager_module =
+[
+    [ "BaseDataManagerModule", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a8b5b694f212ae800588f43851a76d2fd", null ],
+    [ "BaseDataManagerModule", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a8b5b694f212ae800588f43851a76d2fd", null ],
+    [ "ApplyCurrentData", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a25b2feb5bb222bd11bd1a80d84e425e8", null ],
+    [ "ApplyCurrentData", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a8571117ae1ecba161b02ace1eebf13a1", null ],
+    [ "ApplyData", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a8debdd5fdbdfb655524f77732a7b78e3", null ],
+    [ "Configure", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#aa4b7787ee2c9974ba14621edae936e6c", null ],
+    [ "Init", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#ac7a0804d9d06764cf1e7a8325c0fef4b", null ],
+    [ "LoadData", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#acd441cda1cb1288c08ab353bf0b2941c", null ],
+    [ "LoadData", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a679e6f55b302d54b66503ca5b46bb739", null ],
+    [ "SaveData", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a7caff0a5c9cf1e2d042df2080f4f83c7", null ],
+    [ "SaveData", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a6e53a8167934bad5718ff19a990d825d", null ],
+    [ "SetCurrentData", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a582413f1e7f385a7bd1087b470d26e2c", null ],
+    [ "SetCurrentData", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a70f5ac1419da027c0ce0020d44bf6d91", null ],
+    [ "SetData", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a31867e4919121a20a99babde97e3cfdf", null ],
+    [ "SetDefaults", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a47e78db2e383391fb9f212c48127793f", null ],
+    [ "ValidateData", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a3cf92c2f307c29d8f8b6c7a702b58c36", null ],
+    [ "data", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a6893ef0bb8ddca3019f2df86001fc1fc", null ],
+    [ "Data", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a94c3207d430af876c4fec88071128614", null ],
+    [ "DataPath", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a9c51a571dc0cb587e892af25409700c2", null ],
+    [ "Enabled", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a24e88ff61a439a145cb7f7a3333c403a", null ],
+    [ "FileName", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a16a46732ba5453e15cbae94dd7539049", null ],
+    [ "Serializer", "class_moe_1_1_game_framework_1_1_base_data_manager_module.html#a486c526754144d56d7d73b4d438970de", null ]
+];

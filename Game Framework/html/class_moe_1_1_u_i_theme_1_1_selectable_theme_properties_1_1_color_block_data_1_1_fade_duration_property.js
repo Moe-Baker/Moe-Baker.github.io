@@ -1,0 +1,5 @@
+var class_moe_1_1_u_i_theme_1_1_selectable_theme_properties_1_1_color_block_data_1_1_fade_duration_property =
+[
+    [ "FadeDurationProperty", "class_moe_1_1_u_i_theme_1_1_selectable_theme_properties_1_1_color_block_data_1_1_fade_duration_property.html#abc6e30ae42105b344124167d3d5f0ec7", null ],
+    [ "ApplyInternal", "class_moe_1_1_u_i_theme_1_1_selectable_theme_properties_1_1_color_block_data_1_1_fade_duration_property.html#adf9479270b88f13a9a34cf60fd1f59da", null ]
+];
