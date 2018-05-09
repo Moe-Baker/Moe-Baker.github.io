@@ -1,4 +1,0 @@
-var class_moe_1_1_u_i_theme_1_1_selectable_theme_properties_1_1_sprite_state_data_1_1_highlighted_property =
-[
-    [ "ApplyInternal", "class_moe_1_1_u_i_theme_1_1_selectable_theme_properties_1_1_sprite_state_data_1_1_highlighted_property.html#a6dbff240aa6517126073245823db7f92", null ]
-];
