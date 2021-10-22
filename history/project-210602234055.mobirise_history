@@ -40,7 +40,7 @@
     ],
     "favicon": "@PROJECT_PATH@/assets/images/t4-logo-128x128.png",
     "noImageResize": "",
-    "uniqCompNum": 32,
+    "uniqCompNum": 31,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "imageResize": true,
