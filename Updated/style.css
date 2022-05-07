@@ -124,7 +124,10 @@ a:visited { color: #1385ac }
     display: inline-block;
     box-sizing: border-box;
     font-family: rubik-semi-bold;
+    
     border-radius: 100px;
+    border-color: rgb(107, 107, 107);
+    border-style: solid;
 }
 
 .showcase-button:hover, .showcase-button:active
